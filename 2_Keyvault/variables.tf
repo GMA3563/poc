@@ -1,10 +1,10 @@
-variable "location" {
+variable "location1" {
 type = string
 description = "location"
 default = null
 }
 
-variable "name" {
+variable "name1" {
 type = string
 description = "location"
 default = null
